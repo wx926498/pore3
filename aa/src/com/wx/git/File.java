@@ -21,5 +21,6 @@ public class File {
     public void dd(){
         System.out.println("ddd!");
         System.out.println("dad!");
+        System.out.println("dad!");
     }
 }
