@@ -16,4 +16,9 @@ public class File {
     public void cc(){
         System.out.println("ccc!");
     }
+
+    @Test
+    public void dd(){
+        System.out.println("ddd!");
+    }
 }
